@@ -46,8 +46,6 @@ java -jar ./target/feed-reader-1.0-SNAPSHOT.jar
 | /articles  | GET           | Lists all articles |
 | /articles/{id}  | GET           | Properties of the given article |
 
-## DEMO 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://drive.google.com/file/d/1sGsenOQnra46Y3iQV-Jm7BDQH9A26_o7/view?usp=sharing "Everything Is AWESOME")
 
 ## Choices
 > I used spring boot as its easy to create a standalone Java Application, which includes an embedded tomcat server. </br>
